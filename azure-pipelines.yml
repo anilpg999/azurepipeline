@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: DESKTOP-NQQ9RTP
+pool: Default
 
 steps:
 - task: Maven@3
