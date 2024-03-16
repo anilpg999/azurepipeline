@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: azureagent12
+  name: azureagent12
 
 steps:
 - task: Maven@3
