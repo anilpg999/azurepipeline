@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
- name: 'azureagent'
+ name: 'azureagent12'
 
 steps:
 - task: Maven@3
